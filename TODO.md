@@ -80,4 +80,4 @@
 - [x] Ganti setiap referensi aset `/manus-storage/...` dengan file lokal yang ikut tersimpan di repository agar gambar, logo, dan desain tetap tersedia di Cloudflare Workers.
 - [x] Tambahkan konfigurasi Wrangler untuk menyajikan `public/` sebagai static assets Worker tanpa build/backend yang tidak diperlukan.
 - [x] Tambahkan skrip dan petunjuk berbahasa Indonesia untuk menjalankan preview lokal dan deploy Worker nanti.
-- [ ] Commit proyek beserta aset lokal ke `muhfarrasafif/NailsqueenDesain2`; pertahankan repository Manus sebagai sumber canonical dan jangan deploy ke Cloudflare sekarang.
+- [x] Commit proyek beserta aset lokal ke `muhfarrasafif/NailsqueenDesain2`; pertahankan repository Manus sebagai sumber canonical dan jangan deploy ke Cloudflare sekarang.
